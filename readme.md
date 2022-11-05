@@ -1,6 +1,6 @@
 Machine learning material for absolute beginners.
 
-1. Linear Regression in Python:
-Implementing Linear regression algorithm in a notebook without using higher level packages like scikit-learn
+1. Machine Learning Intuition:
+The intention here is to provide a basic intuition of **Machine Learning** (ML) that is applicable to many problems. This notebook is fully written in basic python, no higher level packages have been used. 
 
 
