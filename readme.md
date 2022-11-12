@@ -14,3 +14,13 @@ In this lecture, we introduce the importance of vectorization and provide the ve
 for the Linear model. Also, provide an overview of broadcasting.
 
 [Jupyter Notebook](02%20Linear%20Regression%20-%20Vectorized.ipynb)
+
+**Lecture 3. Classification - Logistic Regression**
+
+Classification is a bread and butter task in Machine Learning. Given a few categories, we train a model 
+using a dataset, that predicts the category/class of the new data point. 
+
+As usual, we will define a toy dataset and build out the complete logistic classification model from scratch
+in python. We will leverage cross entropy loss function to train the model.
+
+[Jupyter Notebook](03%20Logistic%20Regression.ipynb)
